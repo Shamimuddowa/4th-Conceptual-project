@@ -46,13 +46,15 @@
 }
 .btn{
     background-color: red;
-    margin: 20px;
-    padding: 20px;
+    margin: 15px;
+    padding: 10px;
     color: white;
     font-size: 18px;
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
     outline: none;
+    font-weight: bold;
+    font-style: italic;
 }
 .aboutussection{
     display: flex;
